@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 const apilink = "https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple";
